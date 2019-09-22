@@ -5,7 +5,8 @@ import Nav from '../nav/index.js';
 import logo from '../../assets/images/logo.png';
 
 
- 
+ const year= new Date().getFullYear();
+
 
 export default props => {
 
