@@ -1,0 +1,16 @@
+.main-nav{
+    text-align: right;
+    margin-right: 2%;
+}
+
+li{
+    display: inline;
+    margin-left: 5%;
+}
+
+li > *{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: saddlebrown;
+    font-weight: bold;
+}
