@@ -1,0 +1,22 @@
+.footer{
+    height: 100px;
+    background-color: darkturquoise;
+
+    .footer-text{
+        color: white;
+        display: inline;
+        margin-left: 20%;
+    }
+
+    .footer-phone{
+        color: white;
+        display: inline;
+        margin-left: 20%;
+        vertical-align: 70%;
+    }
+}
+
+.footer-dots{
+    margin-left: 5%;
+    margin-top: 3%;
+} 
