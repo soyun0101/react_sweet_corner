@@ -1,3 +1,36 @@
-.title{
+
+
+body{
     color: saddlebrown;
+}
+
+.container{
+    height: 450px;
+    width: 1000px;
+}
+
+.main-home{
+    height: 100%;
+    width: 60%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+aside {
+    height: 100%;
+    width: 31%;
+    background-image: url('../../assets/images/strips2.png');
+    margin-left: 3%;
+    float: right;
+}
+
+.dots-box-aside{
+    margin-top: 10%;
+    margin-left: 55%;
+}
+
+.cupcakes-home{
+    margin-bottom: 5%;
 }
