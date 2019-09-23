@@ -16,10 +16,6 @@ export default props => {
             <img src={footerDots} className="footer-dots"/>
             <p className="center footer-text">Copyright &copy; {year} Sweet Corner. All rights reserved.</p>
 
-        <div className= "footer">
-            <img src={footerDots} className="footer-dots"/>
-            <p className="center footer-text">Copyright &copy; 2019 Sweet Corner. All rights reserved.</p>
-
             <p className="footer-phone">
                 <img src={phoneIcon}/>
                 800.264.2099
