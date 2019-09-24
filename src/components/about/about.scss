@@ -2,7 +2,7 @@
 
 
 .container{
-    height: 250px;
+    height: auto;
     width: 1000px;
 }
 
@@ -23,8 +23,7 @@
     background-size: 30%, 50% 100%;
     background-position: left, right;
     display: table-cell;
-    float: right;
-    
+    float: right;  
 }
 
 
