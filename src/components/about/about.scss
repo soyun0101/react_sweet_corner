@@ -1,0 +1,35 @@
+
+
+
+.container{
+    height: 250px;
+    width: 1000px;
+}
+
+.main-about{
+    height: 100%;
+    width: 60%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.aside-about {
+    height: 100%;
+    width: 30%;
+    background-image: url('../../assets/images/dots-box1.png'), url('../../assets/images/strips1.png');
+    background-repeat: no-repeat;
+    background-size: 30%, 50% 100%;
+    background-position: left, right;
+    display: table-cell;
+    float: right;
+    
+}
+
+
+
+.icing-about{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
